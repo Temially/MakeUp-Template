@@ -1,5 +1,5 @@
 .first-image{
-    background-image: url('../images/Main\ Image.png');
+    background-image: url('../images/1440x846.png');
     background-position: center;
     background-size: cover;
     height: 660px;
@@ -181,7 +181,7 @@ color: #1F252A;
     }
 
     .footers{
-        background-image: url('../images/Contact\ Image.png');
+        background-image: url('../images/1440x639.png');
         background-position: center;
         background-size: cover;
         height: 100%;
